@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="140" viewBox="0 0 880 140">
+  <rect width="880" height="140" fill="#0D1117"/>
+  <text x="440" y="75" text-anchor="middle" fill="#8B949E" font-family="Inter, Segoe UI, sans-serif" font-size="16">
+    Snake animation appears after GitHub Actions run
+  </text>
+</svg>
