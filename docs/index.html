@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Muzaqil Hesenli — Live 3D city</title>
+  <script src="https://browser.sentry-cdn.com/8.47.0/bundle.tracing.min.js" crossorigin="anonymous"></script>
+  <script>
+    Sentry.init({
+      dsn: "https://13cd35f74ebc59b926b4a7802ff00fb3@o4512068083122176.ingest.us.sentry.io/4512070313246720",
+      tracesSampleRate: 0.2,
+      environment: "github-pages",
+    });
+  </script>
+  <style>
+    :root {
+      --bg: #070b14;
+      --ink: #e6edf3;
+      --muted: #8b949e;
+      --teal: #5eead4;
+      --violet: #a78bfa;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; background: var(--bg); color: var(--ink); font-family: Inter, Segoe UI, sans-serif; }
+    a { color: var(--teal); }
+    header, main { width: min(1100px, calc(100% - 32px)); margin: 0 auto; }
+    header { padding: 28px 0 8px; text-align: center; }
+    h1 { margin: 0; letter-spacing: 0.08em; font-size: clamp(1.4rem, 3vw, 2rem); }
+    h2 { margin: 0 0 12px; font-size: 1.05rem; color: var(--teal); font-weight: 600; }
+    .sub { color: var(--muted); margin: 8px 0 18px; }
+    .badges { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
+    .badges img { height: 28px; }
+    #city-wrap {
+      position: relative;
+      height: min(72vh, 640px);
+      margin: 12px auto 28px;
+      border: 1px solid #1f2a37;
+      border-radius: 16px;
+      overflow: hidden;
+      background: radial-gradient(1200px 400px at 50% 110%, #122033, #070b14 70%);
+    }
+    #city { width: 100%; height: 100%; display: block; }
+    .hint { position: absolute; left: 16px; bottom: 12px; color: var(--muted); font-size: 12px; pointer-events: none; }
+    #stats { padding: 8px 0 40px; text-align: center; }
+    #stats img { max-width: 100%; height: auto; }
+    .about { padding-bottom: 64px; color: #c9d1d9; line-height: 1.6; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>MUZAQIL HESENLI</h1>
+    <p class="sub">Data Scientist &amp; AI Engineer · live 3D contribution city</p>
+    <div class="badges">
+      <a href="mailto:mhesenli7@std.beu.edu.az"><img alt="Email" src="https://img.shields.io/badge/Email-mhesenli7%40std.beu.edu.az-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+      <a href="https://github.com/Muzaqil555"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Muzaqil555-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      <a href="https://www.linkedin.com/in/muzaqil-hesenli-111837381"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muzaqil%20Hesenli-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    </div>
+  </header>
+
+  <main>
+    <section id="city-wrap" aria-label="Live 3D contribution city">
+      <canvas id="city"></canvas>
+      <div class="hint">Drag to orbit · scroll away and back to rebuild the city</div>
+    </section>
+
+    <section id="stats">
+      <h2>GitHub metrics</h2>
+      <p class="sub">These cards reload when you leave this section and come back.</p>
+      <p>
+        <img data-live-src="https://gh-stats.work/api?username=Muzaqil555&show_icons=true&hide_border=true&bg_color=070B14&title_color=5EEAD4&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub stats" height="165" />
+        <img data-live-src="https://gh-stats.work/api/top-langs/?username=Muzaqil555&layout=compact&langs_count=6&hide_border=true&bg_color=070B14&title_color=5EEAD4&text_color=C9D1D9" alt="Top languages" height="165" />
+      </p>
+      <p>
+        <img data-live-src="https://streak-stats.demolab.com/?user=Muzaqil555&theme=transparent&hide_border=true&background=070B14&ring=5EEAD4&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=5EEAD4&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
+      </p>
+    </section>
+
+    <section class="about">
+      <h2>About</h2>
+      <p>Computer Engineering student at Baku Engineering University. I take messy data through cleaning, EDA, modeling, and the engineering required to make models useful.</p>
+    </section>
+  </main>
+
+  <script type="importmap">
+    { "imports": { "three": "https://unpkg.com/three@0.170.0/build/three.module.js" } }
+  </script>
+  <script type="module">
+    import * as THREE from "three";
+    import { OrbitControls } from "https://unpkg.com/three@0.170.0/examples/jsm/controls/OrbitControls.js";
+
+    const canvas = document.getElementById("city");
+    const wrap = document.getElementById("city-wrap");
+    const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: true });
+    renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
+    const scene = new THREE.Scene();
+    scene.fog = new THREE.FogExp2(0x070b14, 0.035);
+    const camera = new THREE.PerspectiveCamera(42, 1, 0.1, 200);
+    camera.position.set(18, 16, 22);
+    const controls = new OrbitControls(camera, canvas);
+    controls.enableDamping = true;
+    controls.autoRotate = true;
+    controls.autoRotateSpeed = 0.9;
+    controls.maxPolarAngle = Math.PI / 2.1;
+    controls.minDistance = 12;
+    controls.maxDistance = 42;
+
+    scene.add(new THREE.AmbientLight(0xb9c6ff, 0.55));
+    const teal = new THREE.PointLight(0x5eead4, 40, 60);
+    teal.position.set(-10, 14, 8);
+    scene.add(teal);
+    const violet = new THREE.PointLight(0xa78bfa, 36, 60);
+    violet.position.set(12, 12, -6);
+    scene.add(violet);
+
+    const city = new THREE.Group();
+    scene.add(city);
+    const ground = new THREE.Mesh(
+      new THREE.CircleGeometry(28, 64),
+      new THREE.MeshStandardMaterial({ color: 0x0b1220, roughness: 0.9, metalness: 0.1 })
+    );
+    ground.rotation.x = -Math.PI / 2;
+    scene.add(ground);
+
+    const palette = [0x161b22, 0x134e4a, 0x0f766e, 0x2dd4bf, 0x5eead4];
+    let bars = [];
+
+    function resize() {
+      const w = wrap.clientWidth;
+      const h = wrap.clientHeight;
+      renderer.setSize(w, h, false);
+      camera.aspect = w / h;
+      camera.updateProjectionMatrix();
+    }
+    resize();
+    window.addEventListener("resize", resize);
+
+    function clearCity() {
+      for (const mesh of bars) {
+        city.remove(mesh);
+        mesh.geometry.dispose();
+        mesh.material.dispose();
+      }
+      bars = [];
+    }
+
+    async function buildCity() {
+      clearCity();
+      const res = await fetch("https://github-contributions-api.jogruber.de/v4/Muzaqil555");
+      const data = await res.json();
+      const days = data.contributions || [];
+      const cols = 53;
+      const rows = 7;
+      const gap = 0.42;
+      const startX = -((cols - 1) * gap) / 2;
+      const startZ = -((rows - 1) * gap) / 2;
+      const slice = days.slice(-cols * rows);
+      slice.forEach((day, i) => {
+        const week = Math.floor(i / rows);
+        const dow = i % rows;
+        const level = Math.max(0, Math.min(4, day.level ?? 0));
+        const target = 0.15 + (day.count || 0) * 0.18 + level * 0.35;
+        const geo = new THREE.BoxGeometry(0.32, 1, 0.32);
+        const mat = new THREE.MeshStandardMaterial({
+          color: palette[level],
+          emissive: palette[level],
+          emissiveIntensity: 0.18 + level * 0.12,
+          roughness: 0.35,
+          metalness: 0.2,
+        });
+        const mesh = new THREE.Mesh(geo, mat);
+        mesh.position.set(startX + week * gap, 0.05, startZ + dow * gap);
+        mesh.scale.y = 0.04;
+        mesh.userData.target = target;
+        mesh.userData.phase = Math.random() * Math.PI * 2;
+        city.add(mesh);
+        bars.push(mesh);
+      });
+    }
+
+    let growing = true;
+    let growT = 0;
+    async function rebuild() {
+      growing = true;
+      growT = 0;
+      await buildCity();
+    }
+    await rebuild();
+
+    let cityVisible = true;
+    const cityObs = new IntersectionObserver((entries) => {
+      for (const e of entries) {
+        if (e.isIntersecting) {
+          if (!cityVisible) rebuild();
+          cityVisible = true;
+          controls.autoRotate = true;
+        } else {
+          cityVisible = false;
+          controls.autoRotate = false;
+        }
+      }
+    }, { threshold: 0.2 });
+    cityObs.observe(wrap);
+
+    const statImgs = [...document.querySelectorAll("#stats img[data-live-src]")];
+    function refreshStats() {
+      const t = Date.now();
+      for (const img of statImgs) img.src = `${img.dataset.liveSrc}&t=${t}`;
+    }
+    refreshStats();
+    let statsVisible = true;
+    const statsObs = new IntersectionObserver((entries) => {
+      for (const e of entries) {
+        if (e.isIntersecting) {
+          if (!statsVisible) refreshStats();
+          statsVisible = true;
+        } else {
+          statsVisible = false;
+        }
+      }
+    }, { threshold: 0.25 });
+    statsObs.observe(document.getElementById("stats"));
+
+    const clock = new THREE.Clock();
+    function tick() {
+      const dt = clock.getDelta();
+      growT += dt;
+      if (growing) {
+        const k = Math.min(1, growT / 1.6);
+        const ease = 1 - Math.pow(1 - k, 3);
+        for (const mesh of bars) {
+          mesh.scale.y = 0.04 + mesh.userData.target * ease;
+          mesh.position.y = mesh.scale.y / 2;
+        }
+        if (k >= 1) growing = false;
+      } else {
+        const t = clock.elapsedTime;
+        for (const mesh of bars) {
+          const pulse = 1 + Math.sin(t * 1.6 + mesh.userData.phase) * 0.045;
+          mesh.scale.y = mesh.userData.target * pulse;
+          mesh.position.y = mesh.scale.y / 2;
+        }
+      }
+      controls.update();
+      renderer.render(scene, camera);
+      requestAnimationFrame(tick);
+    }
+    tick();
+  </script>
+</body>
+</html>
