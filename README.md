@@ -1,19 +1,14 @@
 <!--
-  GitHub Profile README for https://github.com/Muzaqil555
-
-  Publish:
-  1. Create a PUBLIC repo named exactly: Muzaqil555
-  2. Push this folder to that repo (main branch)
-  3. GitHub → Actions → enable workflows
-  4. Run "Generate Snake Animation" and "GitHub Profile 3D Contrib" once
+  GitHub Profile README — https://github.com/Muzaqil555
+  Arcade animations refresh daily via GitHub Actions.
 -->
 
 <div align="center">
-  <h2>MUZAQIL HESENLI</h2>
+  <h1>MUZAQIL HESENLI</h1>
   <h3>Data Scientist & AI Engineer</h3>
 
   <a href="https://github.com/Muzaqil555">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3500&pause=900&color=5EEAD4&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+decisions;Machine+Learning+%26+Deep+Learning;AI+Engineering+%E2%80%94+from+notebook+to+production;Python+%E2%80%A2+PyTorch+%E2%80%A2+Azure+ML" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=5EEAD4&center=true&vCenter=true&width=740&lines=Turning+raw+data+into+decisions;Machine+Learning+%26+Deep+Learning;AI+Engineering+from+notebook+to+production;Python+%E2%80%A2+PyTorch+%E2%80%A2+Azure+ML" alt="Typing animation" />
   </a>
 
   <p>
@@ -27,6 +22,46 @@
     <a href="https://github.com/Muzaqil555"><img src="https://img.shields.io/badge/GitHub-Muzaqil555-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/muzaqil-hesenli-111837381"><img src="https://img.shields.io/badge/LinkedIn-Muzaqil%20Hesenli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>Contribution arcade</h2>
+  <p><i>My GitHub graph is a live game — the snake eats commits, Pac-Man clears the year, the city grows every night.</i></p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
+    <img alt="Live contribution snake" src="./dist/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+  <br/>
+  <img alt="Contribution snake GIF" src="./dist/github-contribution-grid-snake.gif" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>Pac-Man</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man contribution game" src="./dist/pacman-contribution-graph-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>3D contribution city</h3>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Neon 3D contribution city" width="100%" />
+  <br/>
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Animated seasonal contribution city" width="100%" />
 </div>
 
 ---
@@ -137,24 +172,6 @@ feature design        model evaluation         cloud & Azure ML
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muzaqil555&theme=github_dark" alt="Repos per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muzaqil555&theme=github_dark" alt="Most commit language" />
 </div>
-
----
-
-### Contribution snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="./dist/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-### 3D contribution city
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contributions" />
-</p>
 
 ---
 

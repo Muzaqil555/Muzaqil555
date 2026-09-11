@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Arcade Games
 
 on:
   schedule:
@@ -10,27 +10,39 @@ on:
       - "dist/**"
       - "profile-3d-contrib/**"
 
+concurrency:
+  group: arcade-games
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake game
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#5EEAD4&color_dots=#ebedf0,#99F6E4,#5EEAD4,#14B8A6,#0F766E
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#A78BFA&color_dots=#0D1117,#134E4A,#0F766E,#2DD4BF,#5EEAD4
+            dist/github-contribution-grid-snake.gif?color_snake=#5EEAD4&color_dots=#0D1117,#134E4A,#0F766E,#2DD4BF,#5EEAD4&color_background=#0D1117
 
-      - name: Commit and push
+      - name: Generate Pac-Man game
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "pacman"
+
+      - name: Commit arcade animations
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add dist/
-          git commit -m "Generate snake animation" || exit 0
+          git commit -m "Update arcade contribution games" || exit 0
           git push
