@@ -9,7 +9,8 @@
 -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:6D28D9&height=180&section=header&text=Muzaqil%20Hesenli&fontSize=42&fontAlignY=36&desc=Data%20Scientist%20%26%20AI%20Engineer&descAlignY=58&descSize=18&fontColor=F8FAFC" alt="header" />
+  <h2>MUZAQIL HESENLI</h2>
+  <h3>Data Scientist & AI Engineer</h3>
 
   <a href="https://github.com/Muzaqil555">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3500&pause=900&color=5EEAD4&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+decisions;Machine+Learning+%26+Deep+Learning;AI+Engineering+%E2%80%94+from+notebook+to+production;Python+%E2%80%A2+PyTorch+%E2%80%A2+Azure+ML" alt="Typing animation" />
@@ -85,19 +86,19 @@ feature design        model evaluation         cloud & Azure ML
 
 <div align="center">
   <a href="https://github.com/Muzaqil555/AIA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muzaqil555&repo=AIA&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=A78BFA&text_color=C9D1D9" alt="AIA" />
+    <img src="https://gh-stats.work/api/pin/?username=Muzaqil555&repo=AIA&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=A78BFA&text_color=C9D1D9" alt="AIA" />
   </a>
   <a href="https://github.com/Muzaqil555/datavizual">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muzaqil555&repo=datavizual&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=A78BFA&text_color=C9D1D9" alt="datavizual" />
+    <img src="https://gh-stats.work/api/pin/?username=Muzaqil555&repo=datavizual&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=A78BFA&text_color=C9D1D9" alt="datavizual" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Muzaqil555/finans">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muzaqil555&repo=finans&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=A78BFA&text_color=C9D1D9" alt="finans" />
+    <img src="https://gh-stats.work/api/pin/?username=Muzaqil555&repo=finans&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=A78BFA&text_color=C9D1D9" alt="finans" />
   </a>
   <a href="https://github.com/Muzaqil555/python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muzaqil555&repo=python&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=A78BFA&text_color=C9D1D9" alt="python" />
+    <img src="https://gh-stats.work/api/pin/?username=Muzaqil555&repo=python&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=A78BFA&text_color=C9D1D9" alt="python" />
   </a>
 </div>
 
@@ -116,8 +117,8 @@ feature design        model evaluation         cloud & Azure ML
 ### GitHub metrics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Muzaqil555&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=A78BFA&text_color=C9D1D9&ring_color=5EEAD4" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzaqil555&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=C9D1D9" alt="Top languages" />
+  <img height="170" src="https://gh-stats.work/api?username=Muzaqil555&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=5EEAD4&icon_color=A78BFA&text_color=C9D1D9&ring_color=5EEAD4" alt="GitHub stats" />
+  <img height="170" src="https://gh-stats.work/api/top-langs/?username=Muzaqil555&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=5EEAD4&text_color=C9D1D9" alt="Top languages" />
 </div>
 
 <br/>
@@ -129,13 +130,12 @@ feature design        model evaluation         cloud & Azure ML
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muzaqil555&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muzaqil555&theme=github_dark" alt="Profile details" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzaqil555&theme=tokyo-night&bg_color=0D1117&color=5EEAD4&line=A78BFA&point=F8FAFC&area=true&hide_border=true" alt="Activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muzaqil555&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muzaqil555&theme=github_dark" alt="Most commit language" />
 </div>
 
 ---
@@ -171,6 +171,4 @@ feature design        model evaluation         cloud & Azure ML
 
 <div align="center">
   <i>From data to models to systems that hold up in the real world.</i>
-  <br/><br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:0F766E,100:0F172A&height=120&section=footer" alt="footer" />
 </div>
