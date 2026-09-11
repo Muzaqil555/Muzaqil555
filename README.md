@@ -1,8 +1,6 @@
 <!-- GitHub Profile README: https://github.com/Muzaqil555 -->
 
 <div align="center">
-  <img src="./assets/banner.png" alt="Muzaqil Hesenli" width="100%" />
-
   <h2>MUZAQIL HESENLI</h2>
   <h4>Data Scientist & AI Engineer</h4>
 
@@ -11,11 +9,24 @@
   </a>
 
   <p>
+    <a href="https://muzaqil555.github.io/Muzaqil555/"><img src="https://img.shields.io/badge/Live_3D_city-Open-5EEAD4?style=for-the-badge" alt="Live 3D city" /></a>
     <a href="mailto:mhesenli7@std.beu.edu.az"><img src="https://img.shields.io/badge/Email-mhesenli7%40std.beu.edu.az-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/Muzaqil555"><img src="https://img.shields.io/badge/GitHub-Muzaqil555-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/muzaqil-hesenli-111837381"><img src="https://img.shields.io/badge/LinkedIn-Muzaqil%20Hesenli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 </div>
+
+---
+
+### 3D contribution city
+
+<p align="center">
+  <a href="https://muzaqil555.github.io/Muzaqil555/">
+    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Animated 3D GitHub contributions" />
+  </a>
+</p>
+
+<p align="center"><a href="https://muzaqil555.github.io/Muzaqil555/">Open the live rotating city</a> — drag to orbit. Stats reload when you scroll away and come back.</p>
 
 ---
 
@@ -78,21 +89,3 @@ Computer Engineering student at **Baku Engineering University**, specializing in
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Muzaqil555&theme=transparent&hide_border=true&background=0D1117&ring=5EEAD4&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=5EEAD4&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 </div>
-
----
-
-### Contribution snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="./dist/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
-
-### 3D contribution city
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contributions" />
-</p>
