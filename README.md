@@ -36,12 +36,12 @@
 <div align="center">
   <h3>Snake</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
-    <img alt="Live contribution snake" src="./dist/github-contribution-grid-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muzaqil555/Muzaqil555/main/dist/github-contribution-grid-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muzaqil555/Muzaqil555/main/dist/github-contribution-grid-snake.svg?v=2" />
+    <img alt="Live contribution snake" src="https://raw.githubusercontent.com/Muzaqil555/Muzaqil555/main/dist/github-contribution-grid-snake-dark.svg?v=2" width="100%" />
   </picture>
   <br/>
-  <img alt="Contribution snake GIF" src="./dist/github-contribution-grid-snake.gif" width="100%" />
+  <img alt="Contribution snake GIF" src="https://raw.githubusercontent.com/Muzaqil555/Muzaqil555/main/dist/github-contribution-grid-snake.gif?v=2" width="100%" />
 </div>
 
 <br/>
@@ -49,9 +49,9 @@
 <div align="center">
   <h3>Pac-Man</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./dist/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man contribution game" src="./dist/pacman-contribution-graph-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muzaqil555/Muzaqil555/main/dist/pacman-contribution-graph-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muzaqil555/Muzaqil555/main/dist/pacman-contribution-graph.svg?v=2" />
+    <img alt="Pac-Man contribution game" src="https://raw.githubusercontent.com/Muzaqil555/Muzaqil555/main/dist/pacman-contribution-graph-dark.svg?v=2" width="100%" />
   </picture>
 </div>
 
