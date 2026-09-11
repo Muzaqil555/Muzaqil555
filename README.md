@@ -28,7 +28,7 @@
 
 <div align="center">
   <h2>Contribution arcade</h2>
-  <p><i>My GitHub graph is a live game — the snake eats commits, Pac-Man clears the year, the city grows every night.</i></p>
+  <p><i>My GitHub graph is a live game — the snake eats commits, and the city grows every night.</i></p>
 </div>
 
 <br/>
@@ -42,17 +42,6 @@
   </picture>
   <br/>
   <img alt="Contribution snake GIF" src="https://raw.githubusercontent.com/Muzaqil555/Muzaqil555/main/dist/github-contribution-grid-snake.gif?v=2" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>Pac-Man</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muzaqil555/Muzaqil555/main/dist/pacman-contribution-graph-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muzaqil555/Muzaqil555/main/dist/pacman-contribution-graph.svg?v=2" />
-    <img alt="Pac-Man contribution game" src="https://raw.githubusercontent.com/Muzaqil555/Muzaqil555/main/dist/pacman-contribution-graph-dark.svg?v=2" width="100%" />
-  </picture>
 </div>
 
 <br/>
