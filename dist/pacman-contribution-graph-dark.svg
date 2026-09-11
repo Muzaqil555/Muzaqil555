@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200">
+  <rect width="880" height="200" fill="#0D1117"/>
+  <text x="440" y="105" text-anchor="middle" fill="#8B949E" font-family="Segoe UI, sans-serif" font-size="16">Pac-Man game appears after GitHub Actions run</text>
+</svg>
