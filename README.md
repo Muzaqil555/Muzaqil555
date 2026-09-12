@@ -23,8 +23,13 @@ Computer Engineering student at Baku Engineering University with a strong founda
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,anaconda,azure,docker,mysql,cs,dotnet,visualstudio,vscode,git,github,githubactions,linux&theme=light&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,anaconda,azure,aws,docker,mysql,cs,dotnet,visualstudio,vscode,git,github,githubactions,linux&theme=light&perline=9" alt="Tech Stack" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
 </p>
 
 ---
