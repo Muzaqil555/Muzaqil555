@@ -9,10 +9,10 @@
   </a>
 
   <p align="center">
-    <a href="mailto:mhesenli7@std.beu.edu.az"><img src="https://img.shields.io/badge/Email-mhesenli7%40std.beu.edu.az-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:mhesenli7@std.beu.edu.az"><img src="https://img.shields.io/badge/Email-BEU-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/Muzaqil555"><img src="https://img.shields.io/badge/GitHub-Muzaqil555-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/muzaqil-hesenli-111837381"><img src="https://img.shields.io/badge/LinkedIn-Muzaqil%20Hesenli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://muzaqil555.github.io/Muzaqil555/"><img src="https://img.shields.io/badge/Live_3D_city-Open-5EEAD4?style=for-the-badge" alt="Live 3D city" /></a>
+    <a href="https://www.linkedin.com/in/muzaqil-hesenli-111837381"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://muzaqil555.github.io/Muzaqil555/"><img src="https://img.shields.io/badge/Live_3D-City-5EEAD4?style=for-the-badge" alt="Live 3D city" /></a>
   </p>
 </div>
 
