@@ -9,6 +9,7 @@
   <p align="center">
     <a href="mailto:mhesenli7@std.beu.edu.az"><img src="https://img.shields.io/badge/Email-mhesenli7%40std.beu.edu.az-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/Muzaqil555"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/muzaqil-hesenli-111837381"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 </div>
 
@@ -22,7 +23,7 @@ Computer Engineering student at Baku Engineering University with a strong founda
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,anaconda,azure,cs,dotnet,vscode,git,github,linux&theme=light" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,anaconda,azure,mysql,cs,dotnet,visualstudio,vscode,git,github,linux&theme=light" alt="Tech Stack" />
   </a>
 </p>
 
