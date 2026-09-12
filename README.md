@@ -23,7 +23,7 @@ Computer Engineering student at Baku Engineering University with a strong founda
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,anaconda,azure,mysql,cs,dotnet,visualstudio,vscode,git,github,linux&theme=light" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,anaconda,azure,docker,mysql,cs,dotnet,visualstudio,vscode,git,github,linux&theme=light" alt="Tech Stack" />
   </a>
 </p>
 
