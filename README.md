@@ -21,7 +21,9 @@ Computer Engineering student at Baku Engineering University with a strong founda
 ### 🛠️ TECHNICAL ARSENAL
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,sklearn,anaconda,azure,git,github,vscode,cs,linux&theme=light" alt="Tech Stack" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,sklearn,anaconda,azure,cs,dotnet,vscode,git,github,linux&theme=light" alt="Tech Stack" />
+  </a>
 </p>
 
 ---
