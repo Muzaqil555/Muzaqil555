@@ -19,12 +19,13 @@
 
 Computer Engineering student at Baku Engineering University with a strong foundation in Data Science and AI Engineering. Experienced in taking datasets through cleaning, exploratory analysis, modeling, and evaluation using Python, pandas, NumPy, Matplotlib, Seaborn, and scikit-learn. Work includes subscription churn classification, Tesla and GameStop financial EDA, automobile-sales visualization, and King County house-price analysis, alongside C# coursework. Highly passionate about continuous learning and turning raw data into decisions that hold up.
 
-- [Create Machine Learning Models in Microsoft Azure](https://www.coursera.org/account/accomplishments/verify/YD39YHUHF2XB)
-- [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/T3UEFI1P5J07)
-- [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/ISFBKEITF673)
-- [Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/HM8DDXIL85WP)
-- [Data Science Orientation](https://www.credly.com/badges/9f2fb784-b17c-44d2-8928-0d1558cecf90)
-- [Tools for Data Science V2](https://www.credly.com/badges/4471673d-e9ae-49ae-8f18-408d47dd8ffa)
+- [Create Machine Learning Models in Microsoft Azure](https://www.coursera.org/account/accomplishments/verify/YD39YHUHF2XB) — Microsoft
+- [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/T3UEFI1P5J07) — IBM
+- [Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/HM8DDXIL85WP) — IBM
+- [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/ISFBKEITF673) — IBM
+- [Essential SQL Skills for Data Beginners](https://courses.analyticsvidhya.com/certificates/2e9ynuvpgb) — Analytics Vidhya
+- [Foundations of Data Science](https://courses.analyticsvidhya.com/certificates/mnyez57mkp) — Analytics Vidhya
+- [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/be1c0e9aad8008f581593209694bb2d5a46cf184) — DataCamp
 
 ### 🛠️ TECHNICAL ARSENAL
 
