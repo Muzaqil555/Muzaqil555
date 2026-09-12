@@ -19,9 +19,12 @@
 
 Computer Engineering student at Baku Engineering University with a strong foundation in Data Science and AI Engineering. Experienced in taking datasets through cleaning, exploratory analysis, modeling, and evaluation using Python, pandas, NumPy, Matplotlib, Seaborn, and scikit-learn. Work includes subscription churn classification, Tesla and GameStop financial EDA, automobile-sales visualization, and King County house-price analysis, alongside C# coursework. Highly passionate about continuous learning and turning raw data into decisions that hold up.
 
-- [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
-- [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai)
-- [Create Machine Learning Models in Microsoft Azure](https://www.coursera.org/learn/create-machine-learning-models-in-microsoft-azure)
+- [Create Machine Learning Models in Microsoft Azure](https://www.coursera.org/account/accomplishments/verify/YD39YHUHF2XB)
+- [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/T3UEFI1P5J07)
+- [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/ISFBKEITF673)
+- [Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/HM8DDXIL85WP)
+- [Data Science Orientation](https://www.credly.com/badges/9f2fb784-b17c-44d2-8928-0d1558cecf90)
+- [Tools for Data Science V2](https://www.credly.com/badges/4471673d-e9ae-49ae-8f18-408d47dd8ffa)
 
 ### 🛠️ TECHNICAL ARSENAL
 
