@@ -42,14 +42,6 @@ Computer Engineering student at Baku Engineering University with a strong founda
 
 ---
 
-### 🚀 FEATURED WORK
-
-<div align="center">
-  <a href="https://github.com/Muzaqil555/AIA"><img src="https://gh-stats.work/api/pin/?username=Muzaqil555&repo=AIA&hide_border=true&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50&icon_color=2C3E50" alt="AIA" /></a>
-  <a href="https://github.com/Muzaqil555/finans"><img src="https://gh-stats.work/api/pin/?username=Muzaqil555&repo=finans&hide_border=true&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50&icon_color=2C3E50" alt="finans" /></a>
-  <a href="https://github.com/Muzaqil555/datavizual"><img src="https://gh-stats.work/api/pin/?username=Muzaqil555&repo=datavizual&hide_border=true&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50&icon_color=2C3E50" alt="datavizual" /></a>
-</div>
-
 ### 📈 CONTRIBUTION METRICS
 
 <div align="center">
