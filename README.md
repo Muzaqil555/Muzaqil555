@@ -36,8 +36,8 @@ Open to internships and collaboration in data science, machine learning, and AI 
 
 ### 🎓 EDUCATION
 
-**Baku Engineering University** — Computer Engineering (undergraduate)  
-Focus: Data Science, machine learning, and software engineering. University email: `mhesenli7@std.beu.edu.az`.
+**[Baku Engineering University](https://beu.edu.az)** — B.Sc. Computer Engineering (in progress)  
+Specialization: Data Science and AI Engineering. University email: [`mhesenli7@std.beu.edu.az`](mailto:mhesenli7@std.beu.edu.az).
 
 ---
 
@@ -54,15 +54,19 @@ Focus: Data Science, machine learning, and software engineering. University emai
 
 ### 📜 CERTIFICATIONS
 
-- **IBM Data Science Professional Certificate** — 12-course Coursera program (Python, SQL, data analysis, visualization, ML)
-- **Python for Data Science, AI & Development** — IBM
-- **Create Machine Learning Models in Microsoft Azure** — Microsoft
+| Credential | Issuer | Links |
+| :--- | :--- | :--- |
+| **IBM Data Science Professional Certificate** — 12-course series (Python, SQL, EDA, visualization, ML) | IBM · Coursera | [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-data-science) [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square)](https://www.credly.com/org/ibm/badge/ibm-data-science-professional-certificate) |
+| **Python for Data Science, AI & Development** — Python, Pandas, NumPy, Jupyter, REST APIs | IBM · Coursera | [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/learn/python-for-applied-data-science-ai) |
+| **Create Machine Learning Models in Microsoft Azure** — regression, classification, clustering, deep learning | Microsoft | [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/learn/create-machine-learning-models-in-microsoft-azure) [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/training/paths/create-machine-learn-models/) |
+
+Also listed on [LinkedIn](https://www.linkedin.com/in/muzaqil-hesenli-111837381).
 
 ---
 
 ### 💼 FEATURED WORK
 
-Work below is taken from the actual notebooks in each repo — not placeholder pins.
+Selected repositories from coursework and applied labs.
 
 <div align="center">
   <a href="https://github.com/Muzaqil555/AIA">
