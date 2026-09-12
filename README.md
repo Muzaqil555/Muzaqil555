@@ -19,11 +19,9 @@
 
 Computer Engineering student at Baku Engineering University with a strong foundation in Data Science and AI Engineering. Experienced in taking datasets through cleaning, exploratory analysis, modeling, and evaluation using Python, pandas, NumPy, Matplotlib, Seaborn, and scikit-learn. Work includes subscription churn classification, Tesla and GameStop financial EDA, automobile-sales visualization, and King County house-price analysis, alongside C# coursework. Highly passionate about continuous learning and turning raw data into decisions that hold up.
 
-<p align="center">
-  <a href="https://www.coursera.org/professional-certificates/ibm-data-science"><img src="https://img.shields.io/badge/IBM-Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science" /></a>
-  <a href="https://www.coursera.org/learn/python-for-applied-data-science-ai"><img src="https://img.shields.io/badge/Python-Data%20Science%20%26%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python for Data Science" /></a>
-  <a href="https://www.coursera.org/learn/create-machine-learning-models-in-microsoft-azure"><img src="https://img.shields.io/badge/Azure-Machine%20Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Machine Learning" /></a>
-</p>
+- [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai)
+- [Create Machine Learning Models in Microsoft Azure](https://www.coursera.org/learn/create-machine-learning-models-in-microsoft-azure)
 
 ### 🛠️ TECHNICAL ARSENAL
 
