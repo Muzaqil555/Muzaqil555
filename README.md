@@ -3,7 +3,7 @@
   <h4>Data Scientist & AI Engineer</h4>
   
   <a href="https://github.com/Muzaqil555">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Data+Science+%26+AI+Engineering;Python+%E2%80%A2+Pandas+%E2%80%A2+scikit-learn;Continuous+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Data+Science+%26+AI+Engineering;Python+%E2%80%A2+PyTorch+%E2%80%A2+scikit-learn;Continuous+Learning" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -23,7 +23,7 @@ Computer Engineering student at Baku Engineering University with a strong founda
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,anaconda,azure,docker,mysql,cs,dotnet,visualstudio,vscode,git,github,linux&theme=light" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,anaconda,azure,docker,mysql,cs,dotnet,visualstudio,vscode,git,github,githubactions,linux&theme=light&perline=8" alt="Tech Stack" />
   </a>
 </p>
 
