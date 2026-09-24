@@ -41,8 +41,8 @@ jobs:
 
       - name: Commit arcade animations
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "Muzaqil Hesenli"
+          git config user.email "mhesenli7@std.beu.edu.az"
           git add dist/
           git commit -m "Update arcade contribution games" || exit 0
           git push
