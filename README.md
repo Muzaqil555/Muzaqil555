@@ -28,7 +28,19 @@ An autonomous studio of 36 AI agents that plans, builds and playtests browser ga
 
 ### 👨‍💻 PROFESSIONAL SUMMARY
 
-Computer Engineering student at Baku Engineering University with a strong foundation in Data Science and AI Engineering. I build tools for AI agents, such as an MCP server listed on Glama that brings the Google AI Pro plan to Claude, Codex and the Gemini CLI. Experienced in taking datasets through cleaning, exploratory analysis, modeling, and evaluation using Python, pandas, NumPy, Matplotlib, Seaborn, and scikit-learn. Work includes subscription churn classification, Tesla and GameStop financial EDA, automobile-sales visualization, and King County house-price analysis, alongside C# coursework. Highly passionate about continuous learning and turning raw data into decisions that hold up.
+Computer Engineering student at Baku Engineering University, working on **AI agents and the tools they use**.
+
+- **AI agent tooling:** I build MCP servers and multi-agent systems for Claude Code, Codex, Antigravity and the Gemini CLI. [gemini-pro-mcp](https://github.com/Muzaqil555/gemini-pro-mcp) is listed and rated on Glama.
+- **Data Science:** datasets from cleaning and exploratory analysis to modeling and evaluation with Python, pandas, NumPy, Matplotlib, Seaborn and scikit-learn. Projects include subscription churn classification, Tesla and GameStop financial EDA, automobile-sales visualization and King County house-price analysis.
+- **Software engineering:** C# and .NET coursework, Python tooling, CI with GitHub Actions and Docker.
+
+### 🤝 LET'S BUILD TOGETHER
+
+- Contributions are welcome: issues labelled [`good first issue`](https://github.com/Muzaqil555/gemini-pro-mcp/labels/good%20first%20issue) in gemini-pro-mcp are a good place to start.
+- Open to collaborating on MCP servers, AI agents and data projects. Reach me on [LinkedIn](https://www.linkedin.com/in/muzaqil-hesenli-111837381) or [X](https://x.com/MuzaqilH48803).
+
+<details>
+<summary><b>📜 Certifications (10)</b></summary>
 
 - [Create Machine Learning Models in Microsoft Azure](https://www.coursera.org/account/accomplishments/verify/YD39YHUHF2XB) — Microsoft
 - [Data Science Orientation](https://www.credly.com/badges/9f2fb784-b17c-44d2-8928-0d1558cecf90) — Coursera
@@ -40,6 +52,8 @@ Computer Engineering student at Baku Engineering University with a strong founda
 - [Foundations of Data Science](https://courses.analyticsvidhya.com/certificates/mnyez57mkp) — Analytics Vidhya
 - [Introduction to Python](https://courses.analyticsvidhya.com/certificates/tjljamklpp) — Analytics Vidhya
 - [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/be1c0e9aad8008f581593209694bb2d5a46cf184) — DataCamp
+
+</details>
 
 ### 🛠️ TECHNICAL ARSENAL
 
