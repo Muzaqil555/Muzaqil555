@@ -18,10 +18,10 @@
 
 ### 🚀 FEATURED PROJECTS
 
-**[gemini-pro-mcp](https://github.com/Muzaqil555/gemini-pro-mcp)** [![Stars](https://img.shields.io/github/stars/Muzaqil555/gemini-pro-mcp?style=social)](https://github.com/Muzaqil555/gemini-pro-mcp/stargazers) [![Glama score](https://glama.ai/mcp/servers/Muzaqil555/gemini-pro-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Muzaqil555/gemini-pro-mcp)
+**[gemini-pro-mcp](https://github.com/Muzaqil555/gemini-pro-mcp)** [![Stars](https://img.shields.io/github/stars/Muzaqil555/gemini-pro-mcp?style=social)](https://github.com/Muzaqil555/gemini-pro-mcp/stargazers) [![Glama score](https://glama.ai/mcp/servers/Muzaqil555/gemini-pro-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Muzaqil555/gemini-pro-mcp)<br>
 Your Google AI Pro subscription inside Claude Code, Codex, Antigravity and the Gemini CLI: Gemini with no API bill, Deep Research, Google Flow videos, Gemini Notebooks and Jules, as up to 36 MCP tools. One command sets it up. Python, MIT.
 
-**[game-for-ai](https://github.com/Muzaqil555/game-for-ai)** [![Stars](https://img.shields.io/github/stars/Muzaqil555/game-for-ai?style=social)](https://github.com/Muzaqil555/game-for-ai/stargazers)
+**[game-for-ai](https://github.com/Muzaqil555/game-for-ai)** [![Stars](https://img.shields.io/github/stars/Muzaqil555/game-for-ai?style=social)](https://github.com/Muzaqil555/game-for-ai/stargazers)<br>
 An autonomous studio of 36 AI agents that plans, builds and playtests browser games, with skills for Claude Code, Antigravity and Cursor.
 
 ---
