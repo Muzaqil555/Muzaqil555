@@ -22,7 +22,7 @@
 Your Google AI Pro subscription inside Claude Code, Codex, Antigravity and the Gemini CLI: Gemini with no API bill, Deep Research, Google Flow videos, Gemini Notebooks and Jules, as up to 36 MCP tools. One command sets it up. Python, MIT.
 
 **[game-for-ai](https://github.com/Muzaqil555/game-for-ai)** [![Stars](https://img.shields.io/github/stars/Muzaqil555/game-for-ai?style=social)](https://github.com/Muzaqil555/game-for-ai/stargazers)<br>
-An autonomous studio of 36 AI agents that plans, builds and playtests browser games, with skills for Claude Code, Antigravity and Cursor.
+A studio of 28 AI subagents that designs, builds, playtests and fixes browser games from one sentence: a Claude Code plugin that also works with Codex, Cursor and Antigravity. [Play the demo games](https://muzaqil555.github.io/game-for-ai/).
 
 ---
 
