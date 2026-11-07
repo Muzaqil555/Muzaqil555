@@ -1,23 +1,34 @@
 <div align="center">
   <h2>MUZAQIL HESENLI</h2>
-  <h4>Data Scientist & AI Engineer</h4>
+  <h4>AI Engineer · AI agents & MCP tools · Data Science</h4>
   
   <a href="https://github.com/Muzaqil555">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Data+Science+%26+AI+Engineering;Python+%E2%80%A2+PyTorch+%E2%80%A2+scikit-learn;Continuous+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Building+MCP+servers+%26+AI+agents;Claude+%E2%80%A2+Gemini+%E2%80%A2+Codex+%E2%80%A2+Antigravity;Data+Science+%26+AI+Engineering;Computer+Engineering+Student" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <a href="mailto:mhesenli7@std.beu.edu.az"><img src="https://img.shields.io/badge/Email-mhesenli7%40std.beu.edu.az-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/Muzaqil555"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/muzaqil-hesenli-111837381"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://x.com/MuzaqilH48803"><img src="https://img.shields.io/badge/X-@MuzaqilH48803-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   </p>
 </div>
 
 ---
 
+### 🚀 FEATURED PROJECTS
+
+**[gemini-pro-mcp](https://github.com/Muzaqil555/gemini-pro-mcp)** [![Stars](https://img.shields.io/github/stars/Muzaqil555/gemini-pro-mcp?style=social)](https://github.com/Muzaqil555/gemini-pro-mcp/stargazers) [![Glama score](https://glama.ai/mcp/servers/Muzaqil555/gemini-pro-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Muzaqil555/gemini-pro-mcp)
+Your Google AI Pro subscription inside Claude Code, Codex, Antigravity and the Gemini CLI: Gemini with no API bill, Deep Research, Google Flow videos, Gemini Notebooks and Jules, as up to 36 MCP tools. One command sets it up. Python, MIT.
+
+**[game-for-ai](https://github.com/Muzaqil555/game-for-ai)** [![Stars](https://img.shields.io/github/stars/Muzaqil555/game-for-ai?style=social)](https://github.com/Muzaqil555/game-for-ai/stargazers)
+An autonomous studio of 36 AI agents that plans, builds and playtests browser games, with skills for Claude Code, Antigravity and Cursor.
+
+---
+
 ### 👨‍💻 PROFESSIONAL SUMMARY
 
-Computer Engineering student at Baku Engineering University with a strong foundation in Data Science and AI Engineering. Experienced in taking datasets through cleaning, exploratory analysis, modeling, and evaluation using Python, pandas, NumPy, Matplotlib, Seaborn, and scikit-learn. Work includes subscription churn classification, Tesla and GameStop financial EDA, automobile-sales visualization, and King County house-price analysis, alongside C# coursework. Highly passionate about continuous learning and turning raw data into decisions that hold up.
+Computer Engineering student at Baku Engineering University with a strong foundation in Data Science and AI Engineering. I build tools for AI agents, such as an MCP server listed on Glama that brings the Google AI Pro plan to Claude, Codex and the Gemini CLI. Experienced in taking datasets through cleaning, exploratory analysis, modeling, and evaluation using Python, pandas, NumPy, Matplotlib, Seaborn, and scikit-learn. Work includes subscription churn classification, Tesla and GameStop financial EDA, automobile-sales visualization, and King County house-price analysis, alongside C# coursework. Highly passionate about continuous learning and turning raw data into decisions that hold up.
 
 - [Create Machine Learning Models in Microsoft Azure](https://www.coursera.org/account/accomplishments/verify/YD39YHUHF2XB) — Microsoft
 - [Data Science Orientation](https://www.credly.com/badges/9f2fb784-b17c-44d2-8928-0d1558cecf90) — Coursera
