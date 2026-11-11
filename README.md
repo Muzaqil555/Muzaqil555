@@ -62,7 +62,7 @@ Co-founder of WayGo and Computer Engineering student at Baku Engineering Univers
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,flutter,dart,sklearn,pytorch,tensorflow,anaconda,azure,aws,docker,mysql,cs,dotnet,visualstudio,vscode,git,github,githubactions,linux&theme=light&perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,flutter,dart,sklearn,anaconda,azure,docker,mysql,cs,dotnet,visualstudio,vscode,git,github,githubactions,linux&theme=light&perline=9" alt="Tech Stack" />
   </a>
 </p>
 
