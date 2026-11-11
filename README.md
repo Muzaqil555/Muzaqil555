@@ -1,6 +1,6 @@
 <div align="center">
   <h2>MUZAQIL HESENLI</h2>
-  <h4>AI Engineer · AI agents & MCP tools · Data Science</h4>
+  <h4>Co-founder @ WayGo · AI Engineer · AI agents & MCP tools · Data Science</h4>
   
   <a href="https://github.com/Muzaqil555">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Building+MCP+servers+%26+AI+agents;Claude+%E2%80%A2+Gemini+%E2%80%A2+Codex+%E2%80%A2+Antigravity;Data+Science+%26+AI+Engineering;Computer+Engineering+Student" alt="Typing SVG" />
@@ -21,6 +21,9 @@
 **[gemini-pro-mcp](https://github.com/Muzaqil555/gemini-pro-mcp)** [![Stars](https://img.shields.io/github/stars/Muzaqil555/gemini-pro-mcp?style=social)](https://github.com/Muzaqil555/gemini-pro-mcp/stargazers) [![Glama score](https://glama.ai/mcp/servers/Muzaqil555/gemini-pro-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Muzaqil555/gemini-pro-mcp)<br>
 Your Google AI Pro subscription inside Claude Code, Codex, Antigravity and the Gemini CLI: Gemini with no API bill, Deep Research, Google Flow videos, Gemini Notebooks and Jules, as up to 36 MCP tools. One command sets it up. Python, MIT.
 
+**WayGo** · Co-founder, AI & Mobile Engineer (August 2026 to now)<br>
+A navigation and eco-mobility app for Baku: routing, live traffic, incident reports and points for greener trips. I build the AI service (Python, FastAPI, LightGBM, Gemini) and the mobile app (Flutter, MapLibre): about 600 commits and 92 merged pull requests. The code is private.
+
 **[game-for-ai](https://github.com/Muzaqil555/game-for-ai)** [![Stars](https://img.shields.io/github/stars/Muzaqil555/game-for-ai?style=social)](https://github.com/Muzaqil555/game-for-ai/stargazers)<br>
 A studio of 28 AI subagents that designs, builds, playtests and fixes browser games from one sentence: a Claude Code plugin that also works with Codex, Cursor and Antigravity. [Play the demo games](https://muzaqil555.github.io/game-for-ai/).
 
@@ -28,7 +31,7 @@ A studio of 28 AI subagents that designs, builds, playtests and fixes browser ga
 
 ### 👨‍💻 PROFESSIONAL SUMMARY
 
-Computer Engineering student at Baku Engineering University, working on **AI agents and the tools they use**.
+Co-founder of WayGo and Computer Engineering student at Baku Engineering University, working on **AI agents and the tools they use**.
 
 - **AI agent tooling:** I build MCP servers and multi-agent systems for Claude Code, Codex, Antigravity and the Gemini CLI. [gemini-pro-mcp](https://github.com/Muzaqil555/gemini-pro-mcp) is listed and rated on Glama.
 - **Data Science:** datasets from cleaning and exploratory analysis to modeling and evaluation with Python, pandas, NumPy, Matplotlib, Seaborn and scikit-learn. Projects include subscription churn classification, Tesla and GameStop financial EDA, automobile-sales visualization and King County house-price analysis.
@@ -59,7 +62,7 @@ Computer Engineering student at Baku Engineering University, working on **AI age
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,anaconda,azure,aws,docker,mysql,cs,dotnet,visualstudio,vscode,git,github,githubactions,linux&theme=light&perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,flutter,dart,sklearn,pytorch,tensorflow,anaconda,azure,aws,docker,mysql,cs,dotnet,visualstudio,vscode,git,github,githubactions,linux&theme=light&perline=9" alt="Tech Stack" />
   </a>
 </p>
 
