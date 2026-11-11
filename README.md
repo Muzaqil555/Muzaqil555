@@ -1,77 +1,93 @@
-# Muzaqil Hesenli
+<div align="center">
+  <h2>MUZAQIL HESENLI</h2>
+  <h4>AI Engineer · AI agents & MCP tools · Data Science</h4>
+  
+  <a href="https://github.com/Muzaqil555">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Building+MCP+servers+%26+AI+agents;Claude+%E2%80%A2+Gemini+%E2%80%A2+Codex+%E2%80%A2+Antigravity;Data+Science+%26+AI+Engineering;Computer+Engineering+Student" alt="Typing SVG" />
+  </a>
 
-AI engineer in Baku. I build tools for AI coding agents, and the AI service and mobile app of a navigation startup. Computer Engineering student at Baku Engineering University.
+  <p align="center">
+    <a href="mailto:mhesenli7@std.beu.edu.az"><img src="https://img.shields.io/badge/Email-mhesenli7%40std.beu.edu.az-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/Muzaqil555"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/muzaqil-hesenli-111837381"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://x.com/MuzaqilH48803"><img src="https://img.shields.io/badge/X-@MuzaqilH48803-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  </p>
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/muzaqil-hesenli-111837381) · [X](https://x.com/MuzaqilH48803) · [dev.to](https://dev.to/muzaqil555) · [Email](mailto:mhesenli7@std.beu.edu.az)
+---
 
-## What I am building
+### 🚀 FEATURED PROJECTS
 
-### [gemini-pro-mcp](https://github.com/Muzaqil555/gemini-pro-mcp)
+**[gemini-pro-mcp](https://github.com/Muzaqil555/gemini-pro-mcp)** [![Stars](https://img.shields.io/github/stars/Muzaqil555/gemini-pro-mcp?style=social)](https://github.com/Muzaqil555/gemini-pro-mcp/stargazers) [![Glama score](https://glama.ai/mcp/servers/Muzaqil555/gemini-pro-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Muzaqil555/gemini-pro-mcp)<br>
+Your Google AI Pro subscription inside Claude Code, Codex, Antigravity and the Gemini CLI: Gemini with no API bill, Deep Research, Google Flow videos, Gemini Notebooks and Jules, as up to 36 MCP tools. One command sets it up. Python, MIT.
 
-[![PyPI](https://img.shields.io/pypi/v/gemini-pro-mcp)](https://pypi.org/project/gemini-pro-mcp/)
-[![CI](https://github.com/Muzaqil555/gemini-pro-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Muzaqil555/gemini-pro-mcp/actions/workflows/ci.yml)
-[![Stars](https://img.shields.io/github/stars/Muzaqil555/gemini-pro-mcp?style=social)](https://github.com/Muzaqil555/gemini-pro-mcp/stargazers)
+**[game-for-ai](https://github.com/Muzaqil555/game-for-ai)** [![Stars](https://img.shields.io/github/stars/Muzaqil555/game-for-ai?style=social)](https://github.com/Muzaqil555/game-for-ai/stargazers)<br>
+A studio of 28 AI subagents that designs, builds, playtests and fixes browser games from one sentence: a Claude Code plugin that also works with Codex, Cursor and Antigravity. [Play the demo games](https://muzaqil555.github.io/game-for-ai/).
 
-An open-source MCP server that lets Claude Code, Codex and Gemini CLI use a Google AI Pro subscription: Gemini, Deep Research, Jules, Gemini Notebooks and Google Flow video, as 36 tools.
+---
 
-- Published on [PyPI](https://pypi.org/project/gemini-pro-mcp/) and in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.Muzaqil555/gemini-pro-mcp), and rated A on [Glama](https://glama.ai/mcp/servers/Muzaqil555/gemini-pro-mcp).
-- Three backends behind one server: a CLI run in a sandbox, official REST APIs, and browser automation over the Chrome DevTools Protocol for products that have no API.
-- Long jobs resume after a crash: a two minute video is planned as 15 clips, generated, retried and joined into one file.
-- Tested on Windows, macOS and Linux with Python 3.10 and 3.13 in GitHub Actions. Releases publish to PyPI with trusted publishing.
-- One command sets it up for four clients, and a `doctor` command reports what works on the machine.
+### 👨‍💻 PROFESSIONAL SUMMARY
 
-Python, MCP SDK, Playwright, httpx, pytest, ruff, GitHub Actions.
+Computer Engineering student at Baku Engineering University, working on **AI agents and the tools they use**.
 
-### WayGo (August 2026 to now)
+- **AI agent tooling:** I build MCP servers and multi-agent systems for Claude Code, Codex, Antigravity and the Gemini CLI. [gemini-pro-mcp](https://github.com/Muzaqil555/gemini-pro-mcp) is listed and rated on Glama.
+- **Data Science:** datasets from cleaning and exploratory analysis to modeling and evaluation with Python, pandas, NumPy, Matplotlib, Seaborn and scikit-learn. Projects include subscription churn classification, Tesla and GameStop financial EDA, automobile-sales visualization and King County house-price analysis.
+- **Software engineering:** C# and .NET coursework, Python tooling, CI with GitHub Actions and Docker.
 
-A navigation and eco-mobility app for Baku: routing, live traffic, incident reports, and points for greener trips. The code is private. I build two of its four services:
+### 🤝 LET'S BUILD TOGETHER
 
-- **AI service** (Python, FastAPI): traffic prediction with LightGBM and an assistant in Azerbaijani built on Gemini.
-- **Mobile app** (Flutter, MapLibre): the map and navigation screens, free-drive mode, weekly leagues, friends and rewards.
-
-About 600 commits across the two repositories, and 92 merged pull requests in the mobile app since October 2026. Each change ships through review and GitHub Actions to a production server.
-
-### [game-for-ai](https://github.com/Muzaqil555/game-for-ai)
-
-A Claude Code plugin with 28 subagents that design, build, playtest and fix a browser game from one sentence. It also works with Codex, Cursor and Antigravity. [Play the demo games](https://muzaqil555.github.io/game-for-ai/).
-
-## Earlier work
-
-- [axdaris](https://github.com/Muzaqil555/axdaris): finds Instagram profiles by keyword, scores them with Gemini and drafts a first message. Python.
-- [virtualmaus](https://github.com/Muzaqil555/virtualmaus): controls the mouse with hand gestures from a webcam. Python, MediaPipe.
-- [AIA](https://github.com/Muzaqil555/AIA): subscription churn prediction with Random Forest and XGBoost.
-- [biletsatisi](https://github.com/Muzaqil555/biletsatisi) and [Reservasiya](https://github.com/Muzaqil555/Reservasiya): ticket sales and reservation web apps. C#, ASP.NET Core MVC.
-
-## What I work with
-
-| Area | Tools |
-|---|---|
-| AI agents | MCP servers, Claude Code plugins and subagents, Gemini API, tool design |
-| Backend | Python, FastAPI, httpx, Playwright, C#, ASP.NET Core |
-| Mobile | Flutter, Dart, MapLibre |
-| Data and ML | pandas, NumPy, scikit-learn, LightGBM, XGBoost, Matplotlib, Seaborn |
-| Delivery | Git, GitHub Actions, Docker, pytest, ruff, PyPI releases |
-
-## Writing
-
-- [How to use your Google AI Pro subscription inside Claude Code](https://dev.to/muzaqil555)
+- Contributions are welcome: issues labelled [`good first issue`](https://github.com/Muzaqil555/gemini-pro-mcp/labels/good%20first%20issue) in gemini-pro-mcp are a good place to start.
+- Open to collaborating on MCP servers, AI agents and data projects. Reach me on [LinkedIn](https://www.linkedin.com/in/muzaqil-hesenli-111837381) or [X](https://x.com/MuzaqilH48803).
 
 <details>
-<summary><b>Certifications (10)</b></summary>
+<summary><b>📜 Certifications (10)</b></summary>
 
-- [Create Machine Learning Models in Microsoft Azure](https://www.coursera.org/account/accomplishments/verify/YD39YHUHF2XB), Microsoft
-- [Data Science Orientation](https://www.credly.com/badges/9f2fb784-b17c-44d2-8928-0d1558cecf90), Coursera
-- [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/T3UEFI1P5J07), IBM
-- [Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/HM8DDXIL85WP), IBM
-- [Tools for Data Science V2](https://www.credly.com/badges/4471673d-e9ae-49ae-8f18-408d47dd8ffa), Coursera
-- [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/ISFBKEITF673), IBM
-- [Essential SQL Skills for Data Beginners](https://courses.analyticsvidhya.com/certificates/2e9ynuvpgb), Analytics Vidhya
-- [Foundations of Data Science](https://courses.analyticsvidhya.com/certificates/mnyez57mkp), Analytics Vidhya
-- [Introduction to Python](https://courses.analyticsvidhya.com/certificates/tjljamklpp), Analytics Vidhya
-- [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/be1c0e9aad8008f581593209694bb2d5a46cf184), DataCamp
+- [Create Machine Learning Models in Microsoft Azure](https://www.coursera.org/account/accomplishments/verify/YD39YHUHF2XB) — Microsoft
+- [Data Science Orientation](https://www.credly.com/badges/9f2fb784-b17c-44d2-8928-0d1558cecf90) — Coursera
+- [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/T3UEFI1P5J07) — IBM
+- [Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/HM8DDXIL85WP) — IBM
+- [Tools for Data Science V2](https://www.credly.com/badges/4471673d-e9ae-49ae-8f18-408d47dd8ffa) — Coursera
+- [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/ISFBKEITF673) — IBM
+- [Essential SQL Skills for Data Beginners](https://courses.analyticsvidhya.com/certificates/2e9ynuvpgb) — Analytics Vidhya
+- [Foundations of Data Science](https://courses.analyticsvidhya.com/certificates/mnyez57mkp) — Analytics Vidhya
+- [Introduction to Python](https://courses.analyticsvidhya.com/certificates/tjljamklpp) — Analytics Vidhya
+- [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/be1c0e9aad8008f581593209694bb2d5a46cf184) — DataCamp
 
 </details>
 
-## Contact
+### 🛠️ TECHNICAL ARSENAL
 
-I am open to AI engineering roles and to work on agent tooling. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/muzaqil-hesenli-111837381). Issues labelled [`good first issue`](https://github.com/Muzaqil555/gemini-pro-mcp/labels/good%20first%20issue) in gemini-pro-mcp are open to contributors.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,anaconda,azure,aws,docker,mysql,cs,dotnet,visualstudio,vscode,git,github,githubactions,linux&theme=light&perline=9" alt="Tech Stack" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+</p>
+
+---
+
+### 📈 CONTRIBUTION METRICS
+
+<div align="center">
+  <img src="https://gh-stats.work/api?username=Muzaqil555&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50&icon_color=2C3E50" alt="GitHub Stats" />
+  <img src="https://gh-stats.work/api/top-langs/?username=Muzaqil555&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2C3E50&text_color=2C3E50" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Muzaqil555&theme=default&hide_border=true&background=FFFFFF&ring=2C3E50&fire=2C3E50&currStreakNum=2C3E50&sideNums=2C3E50&currStreakLabel=2C3E50&sideLabels=2C3E50&dates=2C3E50" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+### 🐍 CONTRIBUTION SNAKE
+<p align="center">
+  <img src="./dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+### 🌆 3D CONTRIBUTION CITY
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contributions" />
+</p>
