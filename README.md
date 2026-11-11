@@ -9,7 +9,7 @@
   <p align="center">
     <a href="mailto:mhesenli7@std.beu.edu.az"><img src="https://img.shields.io/badge/Email-mhesenli7%40std.beu.edu.az-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/Muzaqil555"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/muzaqil-hesenli-111837381"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/muzaqil-hesenli"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://x.com/MuzaqilH48803"><img src="https://img.shields.io/badge/X-@MuzaqilH48803-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   </p>
 </div>
@@ -40,7 +40,7 @@ Co-founder of WayGo and Computer Engineering student at Baku Engineering Univers
 ### 🤝 LET'S BUILD TOGETHER
 
 - Contributions are welcome: issues labelled [`good first issue`](https://github.com/Muzaqil555/gemini-pro-mcp/labels/good%20first%20issue) in gemini-pro-mcp are a good place to start.
-- Open to collaborating on MCP servers, AI agents and data projects. Reach me on [LinkedIn](https://www.linkedin.com/in/muzaqil-hesenli-111837381) or [X](https://x.com/MuzaqilH48803).
+- Open to collaborating on MCP servers, AI agents and data projects. Reach me on [LinkedIn](https://www.linkedin.com/in/muzaqil-hesenli) or [X](https://x.com/MuzaqilH48803).
 
 <details>
 <summary><b>📜 Certifications (10)</b></summary>
